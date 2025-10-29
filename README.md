@@ -135,4 +135,7 @@ All assignments are organized in one `.twbx` file — `TABLEAU ASSIGNMENT 123.tw
 ---
 
 ## 🗓️ Suggested Commit Messages
+Reviewed all worksheets and dashboards for consistency
+Optimized calculations and formatting in Tableau workbook
+Final version –Tableau Assignments submission
 
